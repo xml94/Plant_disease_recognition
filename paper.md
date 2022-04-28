@@ -1,5 +1,0 @@
-| Name | Year | Source             | Description                              | Dataset         | Paper                                                                        |
-|------|------|--------------------|------------------------------------------|-----------------|------------------------------------------------------------------------------|
-|      | 2022 | Com and Elc on agr | Transfer learning                        | Plant Villiage  | [Paper](https://www.sciencedirect.com/science/article/pii/S0168169922000205) |
-|      | 2021 | Plant Methods      | Semi-supervised, few-shot, self-training | Plant Village   | [Paper](https://link.springer.com/article/10.1186/s13007-021-00770-1)        |
-|      |      |                    |                                          |                 |                                                                              |

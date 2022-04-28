@@ -1,3 +1,7 @@
+## Key points
+* Objectives: recognize the plant disease on plant leaf and fruit using RGB images
+* Tasks: image classification (cls), object detection (obj), segmentation (seg) 
+
 ## Datasets
 
 | Name                 | Description                  | Plant type | # img     | # class | Task     | Paper                                                                                   | Dataset                                                                                 |

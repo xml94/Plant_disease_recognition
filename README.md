@@ -37,8 +37,20 @@
 
  
 ## Backup
+* [python library for food, agriculture](https://github.com/Project-AgML/AgML)
 * [China agricultural disease and pest dataset but not available](http://www.icgroupcas.cn/website_bchtk/tuku_jiangdou.html)
 * [Grape disease](https://link.springer.com/chapter/10.1007/978-3-031-06430-2_32)
 * [PlantifyDr software](https://www.kaggle.com/datasets/lavaman151/plantifydr-dataset)
 * [Ariel image](ttps://arxiv.org/pdf/2004.09754.pdf)
 * [ICL plant woody identification](https://ieeexplore.ieee.org/document/6257486)
+
+
+## To cite this
+If this project is useful for you, please cite this project.
+```
+@misc{MinglePlant,
+  author={Mingle Xu},
+  title={Plant Disease Recognition Datasets},
+  howpublished={\url{https://github.com/xml94/Plant_disease_recognition}},
+}
+```

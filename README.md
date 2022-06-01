@@ -1,7 +1,7 @@
 ## Key points
 * Objectives: recognize the plant disease on plant leaf and fruit using RGB images
-* Foliar disease
 * Tasks: image classification (cls), object detection (obj), segmentation (seg) 
+* Foliar disease
 
 ## Datasets
 * Ag task: agricultural task
@@ -45,7 +45,11 @@
 * [ICL plant woody identification](https://ieeexplore.ieee.org/document/6257486)
 
 
-## To cite this
+## Contribute this project
+Please fell free to contribute this project.
+You can follow the example in the table.
+
+## To cite this project
 If this project is useful for you, please cite this project.
 ```
 @misc{MinglePlant,

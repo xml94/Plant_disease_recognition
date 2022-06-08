@@ -18,7 +18,7 @@
 | Name          | env      | ML task  | Ag task      | Plant and organ      | img         | class  | Paper                                                                                           | Dataset                                                                                          |
 |---------------|----------|----------|--------------|----------------------|-------------|--------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Pathology2020 | real     | cls      | disease      | Apple leaf           | 3,642       | 3      | [Paper](https://bsapubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aps3.11390)               | [Dataset](https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7/data)                   |
-| Pathology2021 | real     | cls      | disease      | Apple leaf           |             |        |                                                                                                 | [Dataset](https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8/leaderboard?tab=public) |
+| Pathology2021 | real     | cls      | disease      | Apple leaf           | 18,632      |        |                                                                                                 | [Dataset](https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8/leaderboard?tab=public) |
 | Cassava       | real     | cls      | disease      | Cassava leaf         | 21,397      | 5      | [Paper](https://www.frontiersin.org/articles/10.3389/fpls.2017.01852/full)                      | [Dataset](https://www.kaggle.com/competitions/cassava-leaf-disease-classification/data)          |
 | PlantVillage  | lab      | cls      | disease      | Multiple leaf        | 54,305      | 38     | [Paper](https://arxiv.org/abs/1511.08060)                                                       | [Dataset](https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color)               |
 | GoodCucumber  | real     | cls      | disease      | Cucumber leaf        | 691         | 2      |                                                                                                 | [Dataset](https://www.kaggle.com/datasets/kareem3egm/cucumber-plant-diseases-dataset)            |
@@ -50,6 +50,7 @@
 | Flower103     | real     | cls, seg | flower cls   | Multiple flower      |             | 103    | [Paper](https://ieeexplore.ieee.org/document/4756141)                                           |                                                                                                  |
 | JMuBEN        | real     | cls, seg | disease      | Coffee leaf          | 58,555      | 5      | [Paper](https://www.sciencedirect.com/science/article/pii/S2352340921004261?via%3Dihub)         | [Dataset](https://www.sciencedirect.com/science/article/pii/S2352340921004261?via%3Dihub)        |
 | Medjool       | lab      | cls, obj | fruit grade  | dates                | 2,576       | 3      | [Paper](https://www.sciencedirect.com/science/article/pii/S2352340921004005?via%3Dihub)         | [Dataset](http://dx.doi.org/10.17632/872xk9npmz.1)                                               |
+| PlantLeaf     | lab      | cls      | multiple     | Multiple             | 4,503       | 22     |                                                                                                 | [Dataset](https://data.mendeley.com/datasets/hb74ynkjcn/5)                                       |
 | example       |          |          |              |                      |             |        |                                                                                                 |                                                                                                  |
 
  
@@ -65,6 +66,8 @@
 * [Soybean seed grade, not image](https://www.sciencedirect.com/science/article/pii/S2352340919300010?via%3Dihub)
 * [whitefly counting](https://doi.org/10.1016/j.dib.2022.107911)
 * [Cassava root](https://doi.org/10.1016/j.dib.2020.106170)
+* [pineapple and others dataset](https://github.com/rodrigobressan/digipathos)
+* [Plant detection application](https://github.com/PuneethReddyHC/leaf-diseases-predition)
 
 
 ## Contribute this project

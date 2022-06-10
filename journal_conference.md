@@ -38,6 +38,7 @@
 ### Conference
 | Name                                                                           |
 |--------------------------------------------------------------------------------|
+|AIAFS AAAI 2022                                                                 |
 | International Conference on Machine Learning and Applications                  |
 | IEEE International Conference on Machine Learning and Applications             |
 | Vision Towards Emerging Trends in Communication and Networking                 |

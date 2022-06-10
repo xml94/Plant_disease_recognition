@@ -19,11 +19,9 @@
 | Plant Science                            | 4.729   | Q1    | 2       |
 | Plant disease                            | 4.438   | Q2    | 2 top   |
 | Trends in Plant Science                  | 18.313  | Q1    | 1 top   |
-| Information Processing in Agriculture    |         | Q     |         |
-| Plant Phenomics                          | No      | No    | 1 top   |
+| Information Processing in Agriculture    |         |       |         |
+| Plant Phenomics                          |         |       | 1 top   |
 | Phytopathology                           | 4.025   | Q1    | 2 top   |
-
-
 
 
 ### Journal related with computer

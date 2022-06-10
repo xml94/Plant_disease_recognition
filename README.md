@@ -70,6 +70,7 @@
 * [Plant detection application](https://github.com/PuneethReddyHC/leaf-diseases-predition)
 
 * [Chinese rice image disease](https://www.scidb.cn/en/detail?dataSetId=633694461276192770)
+* [Chinese grape disease](https://www.scidb.cn/en/detail?dataSetId=76b39c9c435d4035b5076412c2ddcb61)
 
 
 ## Contribute this project

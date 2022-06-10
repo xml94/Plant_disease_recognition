@@ -51,7 +51,7 @@
 | JMuBEN        | real     | cls, seg | disease      | Coffee leaf          | 58,555      | 5      | [Paper](https://www.sciencedirect.com/science/article/pii/S2352340921004261?via%3Dihub)         | [Dataset](https://www.sciencedirect.com/science/article/pii/S2352340921004261?via%3Dihub)        |
 | Medjool       | lab      | cls, obj | fruit grade  | dates                | 2,576       | 3      | [Paper](https://www.sciencedirect.com/science/article/pii/S2352340921004005?via%3Dihub)         | [Dataset](http://dx.doi.org/10.17632/872xk9npmz.1)                                               |
 | PlantLeaf     | lab      | cls      | multiple     | Multiple             | 4,503       | 22     |                                                                                                 | [Dataset](https://data.mendeley.com/datasets/hb74ynkjcn/5)                                       |
-| example       |          |          |              |                      |             |        |                                                                                                 |                                                                                                  |
+| Rice       |          |          |              |                      |             |        |                                                                                                 |                                                                                                  |
 
  
 ## Backup
@@ -68,6 +68,8 @@
 * [Cassava root](https://doi.org/10.1016/j.dib.2020.106170)
 * [pineapple and others dataset](https://github.com/rodrigobressan/digipathos)
 * [Plant detection application](https://github.com/PuneethReddyHC/leaf-diseases-predition)
+
+* [Chinese rice image disease](https://www.scidb.cn/en/detail?dataSetId=633694461276192770)
 
 
 ## Contribute this project

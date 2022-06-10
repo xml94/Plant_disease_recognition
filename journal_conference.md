@@ -22,7 +22,10 @@
 | Information Processing in Agriculture    |         |       |         |
 | Plant Phenomics                          |         |       | 1 top   |
 | Phytopathology                           | 4.025   | Q1    | 2 top   |
-
+| Sensors                                  | 3.576   | Q1    | 3       |
+| Electronics                              | 2.397   | Q2    | 4       |
+| Planta                                   | 4.116   | Q1    | 2       |
+| Agriculture-Basel                        | 2.925   | Q2    | 3       |
 
 ### Journal related with computer
 | Name                  | IF 2021 | Other | Chinese |
@@ -42,3 +45,4 @@
 | International Conference on Robotics and Smart Manufacturing                   |
 | International Conference on Computer Science and Engineering                   |
 | International Conference on Computer Science and Application                   |
+

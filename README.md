@@ -71,6 +71,10 @@
 
 * [Chinese rice image disease](https://www.scidb.cn/en/detail?dataSetId=633694461276192770)
 * [Chinese grape disease](https://www.scidb.cn/en/detail?dataSetId=76b39c9c435d4035b5076412c2ddcb61)
+* [Wheat powdery mildew dataset](https://www.scidb.cn/en/detail?dataSetId=557575344966598656)
+* [Rice brown spot dataset](https://www.scidb.cn/en/detail?dataSetId=557575339971182592)
+
+https://dl.acm.org/doi/10.1016/j.compag.2021.106314
 
 
 ## Contribute this project

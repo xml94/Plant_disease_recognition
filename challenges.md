@@ -1,1 +1,6 @@
-* [Chinese plant related challenges](http://ciee.cau.edu.cn/art/2021/6/25/art_26712_764731.html)
+###[2021 Chinese plant related challenges](http://ciee.cau.edu.cn/art/2021/6/25/art_26712_764731.html)
+* [2021 Chinese strawberry growth stage classification](https://challenge.xfyun.cn/topic/info?type=crop)
+* [2021 Chinese vegetable pest classification](https://challenge.xfyun.cn/topic/info?type=pests-diseases)
+* [2021 Chinese farmer action classification](https://challenge.xfyun.cn/topic/info?type=farmer)
+* [2021 Chinese how to take pictures for plant disease)](https://challenge.xfyun.cn/topic/info?type=guide-photo)
+* Chinese_strawberry_growth_stage_classification

@@ -80,13 +80,27 @@
 * [Chinese grape disease](https://www.scidb.cn/en/detail?dataSetId=76b39c9c435d4035b5076412c2ddcb61)
 * [Wheat powdery mildew dataset](https://www.scidb.cn/en/detail?dataSetId=557575344966598656)
 * [Rice brown spot dataset](https://www.scidb.cn/en/detail?dataSetId=557575339971182592)
+* https://dl.acm.org/doi/10.1016/j.compag.2021.106314
 
-https://dl.acm.org/doi/10.1016/j.compag.2021.106314
+## Korea plant related dataset
+https://aihub.or.kr/aidata/30732
+https://aihub.or.kr/aidata/30731
+https://aihub.or.kr/aidata/30730
+https://aihub.or.kr/aidata/30726
+https://aihub.or.kr/aidata/27768
+https://aihub.or.kr/aidata/30727
+https://aihub.or.kr/aidata/30729
+https://aihub.or.kr/aidata/30728
+https://aihub.or.kr/aidata/34149
+https://aihub.or.kr/aidata/129
+
+## Chinese plant related dataset
+* [Plant_image_data_of_Xishuangbanna_Tropical_Botanical_Garden](https://www.plantplus.cn/doi/10.12282/plantdata.0022)
 
 
 ## Contribute this project
 Please fell free to contribute this project.
-You can follow the example in the table.
+
 
 ## To cite this project
 If this project is useful for you, please cite this project.

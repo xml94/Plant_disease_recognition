@@ -2,14 +2,7 @@
 <project version="4">
   <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="oem50">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="oem51">
+      <paths name="oem@113.198.60.51:10022">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />

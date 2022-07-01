@@ -3,4 +3,3 @@
 * [2021 Chinese vegetable pest classification](https://challenge.xfyun.cn/topic/info?type=pests-diseases)
 * [2021 Chinese farmer action classification](https://challenge.xfyun.cn/topic/info?type=farmer)
 * [2021 Chinese how to take pictures for plant disease)](https://challenge.xfyun.cn/topic/info?type=guide-photo)
-* Chinese_strawberry_growth_stage_classification

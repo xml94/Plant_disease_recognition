@@ -51,6 +51,54 @@
 5357 Tomato___Tomato_Yellow_Leaf_Curl_Virus
 ```
 
+
+## FieldPV
+* 38 classes
+* 14 plants
+* taken in real field
+* number of images and their class name
+```
+33 01Orange___Haunglongbing_(Citrus_greening)
+32 02Apple___Apple_scab
+19 03Apple___Black_rot
+12 04Apple___Cedar_apple_rust
+9 05Apple___healthy
+12 06Blueberry___healthy
+10 07Cherry_(including_sour)___healthy
+10 08Cherry_(including_sour)___Powdery_mildew
+22 09Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+15 10Corn_(maize)___Common_rust_
+28 11Corn_(maize)___healthy
+17 12Corn_(maize)___Northern_Leaf_Blight
+9 13Grape___Black_rot
+11 14Grape___Esca_(Black_Measles)
+20 15Grape___healthy
+12 16Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+20 17Peach___Bacterial_spot
+11 18Peach___healthy
+13 19Pepper,_bell___Bacterial_spot
+9 20Pepper,_bell___healthy
+11 21Potato___Early_blight
+10 22Potato___healthy
+15 23Potato___Late_blight
+8 24Raspberry___healthy
+23 25Soybean___healthy
+25 26Squash___Powdery_mildew
+32 27Strawberry___healthy
+48 28Strawberry___Leaf_scorch
+10 29Tomato___Bacterial_spot
+19 30Tomato__Early_blight
+11 31Tomato___healthy
+28 32Tomato__Late__Blight
+17 33Tomato___Leaf_Mold
+17 34Tomato___Septoria_leaf_spot
+11 35Tomato_Spider_mites Two-spotted_spider_mite
+11 36Tomato___Target_Spot
+8 37Tomato___Tomato_mosaic_virus
+37 38Tomato___Tomato_Yellow_Leaf_Curl_Virus
+```
+
+
 ## PlantDoc classification dataset
 * 28 classes
 * 13 plants

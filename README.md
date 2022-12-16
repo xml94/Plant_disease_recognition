@@ -92,6 +92,7 @@
 
 * [Wheat powdery mildew dataset](https://www.scidb.cn/en/detail?dataSetId=557575344966598656)
 * [Remote sense different types of crop for harvest](https://openreview.net/forum?id=JtjzUXPEaCu)
+* [UAV for plant disease](https://osf.io/p67rz/)
 
 ## Korea plant related dataset
 https://aihub.or.kr/aidata/30732

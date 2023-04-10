@@ -12,7 +12,7 @@
   * woody: woody identification
   * pest: pest detection or classification
 * ML task: machine learning task, such as classification (cls), object detection (obj), segmentation (seg)
-* Environment (env): where to take pictures, lab (lab), real scenario (real) such as field and greenhouse, from internet (internet) 
+* Environment (env): where to take pictures, lab (lab), real world (real) such as field and greenhouse, from internet (internet) 
 * Organs: leaf, fruit, flower, root, bark or stem, habitat
 
 | Name         | env      | ML task  | Ag task | Plant             | img         | class | Paper                                                                                    | Dataset                                                                                                           |
@@ -47,9 +47,9 @@
 | Field-PV     | real     | cls      | disease | multiple          | 665         | 38    | [Paper](https://www.sciencedirect.com/science/article/pii/S0168169921005408)             | [Dataset](https://github.com/PatrickGui/FPDR/tree/master)                                                         |
 | Grape        |          |          |         | grape             |             | 4     |                                                                                          | [Dataset](https://www.kaggle.com/datasets/piyushmishra1999/plantvillage-grape)                                    |
 | Black gram   | real+lab | cls      | disease | black gram        | 1,000       | 5     | [Paper](https://www.sciencedirect.com/science/article/pii/S2352340922009295?via%3Dihub)  | [Dataset](https://data.mendeley.com/datasets/zfcv9fmrgv/3)                                                        |
-|              |          |          |         |                   |             |       |                                                                                          |                                                                                                                   |
-|              |          |          |         |                   |             |       |                                                                                          |                                                                                                                   |
-|              |          |          |         |                   |             |       |                                                                                          |                                                                                                                   |
+| WheatLeaf    | real     |          | disease | wheat             | 407         | 3     |                                                                                          | [Dataset](https://data.mendeley.com/datasets/wgd66f8n6h/)                                                         |
+| Ibean        | real     |          | disease | bean              | 1,296       | 3     |                                                                                          | [Dataset](https://github.com/AI-Lab-Makerere/ibean/)                                                              |
+| Chili        | real+lab |          | disease | chili             | 500         | 5     |                                                                                          | [Dataset](https://www.kaggle.com/datasets/dhenyd/chili-plant-disease)                                             |
 
 ## Other types of plant
 | Name          | env      | ML task  | Ag task      | Plant and organ      | img         | class  | Paper                                                                                           | Dataset                                                                                          |
@@ -72,9 +72,8 @@
 
  
 ## Backup
-* [Chinese crop disease dataset, images with water mark](https://www.scidb.cn/en/detail?dataSetId=633694461276192770)
-* [Chinese grape disease, with water mark](https://www.scidb.cn/en/detail?dataSetId=76b39c9c435d4035b5076412c2ddcb61)
-* 
+* [Chinese crop disease dataset, images with watermark](https://www.scidb.cn/en/detail?dataSetId=633694461276192770)
+* [Chinese grape disease, with watermark](https://www.scidb.cn/en/detail?dataSetId=76b39c9c435d4035b5076412c2ddcb61)
 * [plantnet website](https://plantnet.org/en/)
 * [python library for food, agriculture](https://github.com/Project-AgML/AgML)
 * [China agricultural disease and pest dataset but not available](http://www.icgroupcas.cn/website_bchtk/tuku_jiangdou.html)
@@ -89,7 +88,6 @@
 * [Cassava root](https://doi.org/10.1016/j.dib.2020.106170)
 * [pineapple and others dataset](https://github.com/rodrigobressan/digipathos)
 * [Plant detection application](https://github.com/PuneethReddyHC/leaf-diseases-predition)
-
 * [Wheat powdery mildew dataset](https://www.scidb.cn/en/detail?dataSetId=557575344966598656)
 * [Remote sense different types of crop for harvest](https://openreview.net/forum?id=JtjzUXPEaCu)
 * [UAV for plant disease](https://osf.io/p67rz/)

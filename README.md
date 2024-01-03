@@ -6,6 +6,7 @@
   * disease
 
 ## Datasets related with plant leaf disease
+This project is not active and **we are collecting public plant disease datasets in [PPDRD project](https://github.com/xml94/PPDRD).** 
 * Ag task: agricultural task
   * disease: disease classification or object detection
   * plant: plant identification
